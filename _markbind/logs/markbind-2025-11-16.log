@@ -1,0 +1,38 @@
+2025-11-16T15:48:59.572Z - info: Website generation (lazy) started at 11:48:59 PM
+2025-11-16T15:48:59.830Z - info: Building assets...
+2025-11-16T15:49:00.165Z - info: Assets built
+2025-11-16T15:49:00.166Z - info: Generating landing page...
+2025-11-16T15:49:00.576Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-16T15:49:00.667Z - info: Site data built
+2025-11-16T15:49:00.667Z - info: Website generation (lazy) complete! Total build time: 1.129s
+2025-11-16T15:49:00.681Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:8080
+2025-11-16T15:49:00.681Z - info: Press CTRL+C to stop ...
+2025-11-16T15:49:04.921Z - info: Building /Users/gerteck/dev/website-2526S1/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-11-16T15:49:05.048Z - info: Site data built
+2025-11-16T15:49:05.048Z - info: Lazy website regeneration complete! Total build time: 0.128s
+2025-11-16T15:49:11.093Z - info: Building /Users/gerteck/dev/website-2526S1/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-11-16T15:49:11.391Z - info: Site data built
+2025-11-16T15:49:11.391Z - info: Lazy website regeneration complete! Total build time: 0.298s
+2025-11-16T15:49:15.327Z - info: Building /Users/gerteck/dev/website-2526S1/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-11-16T15:49:15.905Z - info: Site data built
+2025-11-16T15:49:15.905Z - info: Lazy website regeneration complete! Total build time: 0.578s
+2025-11-16T15:50:15.140Z - info: [11:50:15 PM] Reload for file add: /Users/gerteck/dev/website-2526S1/README2.md
+2025-11-16T15:50:15.140Z - info: Synchronizing opened pages list before reload
+2025-11-16T15:50:15.140Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T15:50:15.140Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-11-16T15:50:16.278Z - info: Assets built
+2025-11-16T15:50:32.002Z - info: [11:50:32 PM] Reload for file change: /Users/gerteck/dev/website-2526S1/README2.md
+2025-11-16T15:50:32.002Z - info: Synchronizing opened pages list before reload
+2025-11-16T15:50:32.002Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T15:50:32.002Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-11-16T15:50:33.005Z - info: Assets built
+2025-11-16T15:53:21.340Z - info: Building /Users/gerteck/dev/website-2526S1/book/gitAndGithub/trail/workingWithRemotes/index as some of its dependencies were changed since the last visit
+2025-11-16T15:53:21.613Z - info: Site data built
+2025-11-16T15:53:21.614Z - info: Lazy website regeneration complete! Total build time: 0.275s
+2025-11-16T15:53:34.096Z - info: [11:53:34 PM] Reload for file change: /Users/gerteck/dev/website-2526S1/README2.md
+2025-11-16T15:53:34.096Z - info: Synchronizing opened pages list before reload
+2025-11-16T15:53:34.096Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T15:53:34.096Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-11-16T15:53:35.111Z - info: Assets built
+2025-11-16T15:57:24.774Z - info: Website generation started at 11:57:24 PM
+2025-11-16T15:57:24.988Z - info: Building assets...
