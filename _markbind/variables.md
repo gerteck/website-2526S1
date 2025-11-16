@@ -6,8 +6,8 @@
 <variable name="course_color">success</variable>
 
 <variable name="S">1</variable>
-<variable name="semester">AY2021S{{ S }}</variable>
-<variable name="period">2020 Aug-Dec</variable>
+<variable name="semester">AY2526S{{ S }}</variable>
+<variable name="period">2025 Aug-Dec</variable>
 <variable name="current_week">-1</variable>
 
 <variable name="algolia">no</variable>

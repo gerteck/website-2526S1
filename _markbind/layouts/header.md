@@ -15,14 +15,15 @@
 <li><a href="{{ url_tp_feature_freeze_dashboard }}" target="_blank" class="dropdown-item"><md>:fas-chart-area: tP Code Dashboard (Feature Freeze Period Only)</md></a></li>{% endif %}
 {% endmacro %}
 
-{% if current_week == "-1" %}
+<!-- {% if current_week == "-1" %}
 <div class="w-100 p-1 bg-warning text-center d-print-none"><md>**This is a draft version of the website! The final version will be available near the start of the semester.**</md></div>
 {% endif %}{% if current_week in ["-1", "0", "1"] %}
 <div class="w-100 p-1 bg-success text-white text-center d-print-none"><md>{% if cs2113 %}All the course activities are scheduled to be _in-person_ activities this semester.{% else %}This course will be delivered in _blended learning_ mode (i.e., a mix of online and F2F activities) this semester.{% endif %}</md></div>
 {% elseif current_week == "15" %}
 <div class="w-100 p-1 bg-warning text-center"><md>**This site is from a past semester! The current version will be [here](http://www.comp.nus.edu.sg/~{{ course | lower }}) when the new semester starts.**</md></div>
 </div>
-{% endif %}
+{% endif %} -->
+
 <header sticky>
 <navbar placement="top" type="dark">
 <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><span class="badge rounded-pill bg-{{ course_color }}">{{ course_pair }} <small>{{ period }}</small></span></a>
