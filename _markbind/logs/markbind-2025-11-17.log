@@ -1,0 +1,43 @@
+2025-11-16T16:00:56.319Z - info: The website has been deployed at: https://gerteck.github.io/website-2526S1
+2025-11-16T17:55:53.841Z - info: Website generation (lazy) started at 1:55:53 AM
+2025-11-16T17:55:54.151Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2025-11-16T17:55:54.151Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2025-11-16T17:55:54.179Z - info: Building assets...
+2025-11-16T17:55:56.788Z - info: Assets built
+2025-11-16T17:55:56.789Z - info: Generating landing page...
+2025-11-16T17:55:57.207Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-16T17:55:57.284Z - info: Site data built
+2025-11-16T17:55:57.285Z - info: Website generation (lazy) complete! Total build time: 3.814s
+2025-11-16T17:55:57.298Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:8080
+2025-11-16T17:55:57.299Z - info: Press CTRL+C to stop ...
+2025-11-16T17:56:53.508Z - info: [1:56:53 AM] Reload for file change: /Users/gerteck/dev/website-2526S1/_markbind/layouts/header.md
+2025-11-16T17:56:53.508Z - info: Synchronizing opened pages list before reload
+2025-11-16T17:56:53.508Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T17:56:53.508Z - info: 1. index
+2025-11-16T17:56:54.582Z - info: Rebuilding 1 pages
+2025-11-16T17:56:54.681Z - info: Site data built
+2025-11-16T17:56:54.681Z - info: Pages rebuilt
+2025-11-16T17:56:54.681Z - info: Website regeneration complete! Total build time: 0.099s
+2025-11-16T17:56:58.764Z - info: [1:56:58 AM] Reload for file change: /Users/gerteck/dev/website-2526S1/_markbind/layouts/header.md
+2025-11-16T17:56:58.764Z - info: Synchronizing opened pages list before reload
+2025-11-16T17:56:58.764Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T17:56:58.764Z - info: 1. index
+2025-11-16T17:56:59.828Z - info: Rebuilding 1 pages
+2025-11-16T17:56:59.919Z - info: Site data built
+2025-11-16T17:56:59.919Z - info: Pages rebuilt
+2025-11-16T17:56:59.919Z - info: Website regeneration complete! Total build time: 0.091s
+2025-11-16T17:57:01.286Z - info: [1:57:01 AM] Reload for file change: /Users/gerteck/dev/website-2526S1/_markbind/layouts/header.md
+2025-11-16T17:57:01.286Z - info: Synchronizing opened pages list before reload
+2025-11-16T17:57:01.287Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T17:57:01.287Z - info: 1. index
+2025-11-16T17:57:02.358Z - info: Rebuilding 1 pages
+2025-11-16T17:57:02.444Z - info: Site data built
+2025-11-16T17:57:02.444Z - info: Pages rebuilt
+2025-11-16T17:57:02.444Z - info: Website regeneration complete! Total build time: 0.087s
+2025-11-16T17:57:17.755Z - info: Building /Users/gerteck/dev/website-2526S1/book/gitAndGithub/trail/workingWithRemotes/index as some of its dependencies were changed since the last visit
+2025-11-16T17:57:18.019Z - info: Site data built
+2025-11-16T17:57:18.019Z - info: Lazy website regeneration complete! Total build time: 0.265s
+2025-11-16T18:08:50.288Z - info: Website generation started at 2:08:49 AM
+2025-11-16T18:08:50.595Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2025-11-16T18:08:50.595Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2025-11-16T18:08:50.625Z - info: Building assets...

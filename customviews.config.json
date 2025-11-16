@@ -21,7 +21,6 @@
   "baseUrl": "/website-2526S1",
   "widget": {
     "position": "middle-left",
-    "theme": "dark",
     "title": "Custom Views Widget",
     "showWelcome": true,
     "showTabGroups": true
