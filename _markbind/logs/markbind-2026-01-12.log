@@ -454,3 +454,111 @@ Please visit http://www.java.com for information on installing Java.
 2026-01-12T09:45:23.857Z - info: Press CTRL+C to stop ...
 2026-01-12T09:48:00.461Z - info: Website generation started at 5:48:00 PM
 2026-01-12T09:48:00.572Z - info: Building assets...
+2026-01-12T09:48:00.772Z - info: Assets built
+2026-01-12T09:48:00.772Z - info: Generating pages...
+2026-01-12T09:48:03.580Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:03.581Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:05.879Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:12.362Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:49.142Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:49.142Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:48:53.742Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:49:03.181Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:49:03.181Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:49:10.171Z - info: Pages built
+2026-01-12T09:49:10.234Z - info: Site data built
+2026-01-12T09:49:10.234Z - info: Creating Pagefind Search Index...
+2026-01-12T09:49:12.772Z - info: Pagefind indexed 878 pages in 2.538s
+2026-01-12T09:49:12.772Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:49:13.393Z - info: Website generation complete! Total build time: 73.181s
+2026-01-12T09:49:13.393Z - info: Build success!
+2026-01-12T09:49:35.357Z - info: The website has been deployed at: https://gerteck.github.io/website-2526S1
+2026-01-12T10:11:08.337Z - info: Website generation started at 6:11:08 PM
+2026-01-12T10:11:08.446Z - info: Building assets...
