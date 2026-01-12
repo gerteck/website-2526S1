@@ -145,19 +145,22 @@
         "faq-isn-t-it-unreasonable-to-expect-us-to-spend-so-many-hours-for-the-pe-pe-d": " FAQ Isn't it unreasonable to expect us to spend so many hours for the PE/PE-D?",
         "faq-isn-t-it-unfair-to-students-who-have-other-committments-during-the-pe-pe-d-period": " FAQ Isn't it unfair to students who have other committments during the PE/PE-D period?",
         "faq-will-students-using-more-powerful-e-g-paid-tools-for-testing-will-have-an-unfair-advantage": " FAQ Will students using more powerful (e.g., paid) tools for testing will have an unfair advantage?",
+        "faq-can-a-tester-combine-multiple-similar-bugs-into-a-single-bug-report": " FAQ Can a tester combine multiple similar bugs into a single bug report?",
+        "faq-what-if-a-planned-enhancement-is-written-broadly-so-that-it-covers-a-variety-of-bugs": " FAQ What if a 'Planned Enhancement' is written broadly so that it covers a variety of bugs?",
         "faq-can-i-i-e-the-tester-add-more-information-about-the-bug-when-i-object-to-a-dev-team-s-response": " FAQ Can I (i.e., the tester) add more information about the bug when I object to a dev team's response?",
         "faq-what-if-the-team-rejected-my-bug-report-without-giving-a-reason": " FAQ What if the team rejected my bug report without giving a reason?",
         "faq-if-the-bug-i-reported-is-notinscope-how-does-it-affect-my-accuracy-bonus": " FAQ If the bug I reported is NotInScope, how does it affect my accuracy bonus?",
         "faq-if-a-bug-is-notinscope-does-the-severity-label-still-matter": " FAQ If a bug is NotInScope, does the severity.* label still matter?",
         "faq-some-students-will-be-testing-less-more-buggy-products-than-others-isn-t-that-unfair": " FAQ Some students will be testing less/more buggy products than others? Isn't that unfair?",
         "faq-what-if-the-product-i-tested-has-hardly-any-bugs": " FAQ What if the product I tested has hardly any bugs?",
-        "faq-what-if-the-product-i-tested-is-very-buggy-am-i-expected-to-find-all-those-bugs": " FAQ What if the product I tested is very buggy? Am I expected to find all those bugs?",
+        "faq-am-i-expected-to-find-the-6-highest-severity-bugs-in-the-entire-product-among-all-bugs-in-the-product": " FAQ Am I expected to find the 6 highest severity bugs in the entire product, among all bugs in the product?",
         "faq-do-we-need-to-justify-even-if-we-accept-the-bug-as-is": " FAQ Do we need to justify even if we accept the bug as is?",
         "faq-so-those-who-write-more-code-will-be-hit-with-more-bugs-how-s-that-fair": " FAQ So, those who write more code will be hit with more bugs? How's that fair?",
         "faq-what-if-the-bug-is-real-but-the-tester-used-the-wrong-label-e-g-used-the-wrong-type-can-we-reject-that-bug": " FAQ What if the bug is real but the tester used the wrong label (e.g., used the wrong type.*). Can we reject that bug?",
         "faq-what-if-the-bug-the-tester-reported-is-legit-but-the-expected-behavior-tester-suggested-is-not-correct": " FAQ What if the bug the tester reported is legit but the expected behavior tester suggested is not correct?",
         "faq-can-i-i-e-the-tester-add-more-information-about-the-bug-when-i-object-to-a-dev-team-s-response-2": " FAQ Can I (i.e., the tester) add more information about the bug when I object to a dev team's response?",
         "faq-what-if-the-team-rejected-my-bug-report-without-giving-a-reason-2": " FAQ What if the team rejected my bug report without giving a reason?",
+        "faq-is-in-the-scope-of-the-exam": " FAQ Is ____ in the scope of the exam?",
         "faq-can-we-have-more-past-year-papers-and-model-answers": " FAQ Can we have more past year papers and model answers?",
         "faq-my-laptop-battery-is-weak-can-i-be-put-in-a-seat-near-a-charging-point": " FAQ My laptop battery is weak. Can I be put in a seat near a charging point?",
         "faq-what-why-aren-t-we-allowed-to-go-back-to-previous-questions": " FAQ WHAT? Why aren't we allowed to go back to previous questions?",
@@ -831,7 +834,6 @@
         "pe-phase-1-part-iii-overall-evaluation-15-minutes": "→ PE Phase 1 - Part III Overall Evaluation [~15 minutes]",
         "pe-phase-1-part-iv-trimming-bugs": "→ PE Phase 1 - Part IV Trimming bugs",
         "pe-phase-2-developer-response": "PE Phase 2: Developer Response",
-        "t": "T",
         "pe-phase-3-tester-response": "PE Phase 3: Tester Response",
         "pe-phase-4-tutor-moderation": "PE Phase 4: Tutor Moderation"
       },
@@ -1169,7 +1171,7 @@
       "src": "se-book-adapted/index.md",
       "title": "Textbook",
       "headings": {
-        "software-engineering-for-self-directed-learners-cs2103-t-edition-2025-aug-dec": "Software Engineering for Self-Directed Learners CS2103/T edition - 2025 Aug-Dec"
+        "software-engineering-for-self-directed-learners-cs2103-t-edition-2020-aug-dec": "Software Engineering for Self-Directed Learners CS2103/T edition - 2020 Aug-Dec"
       },
       "headingKeywords": {}
     },

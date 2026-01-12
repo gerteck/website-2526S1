@@ -1,5 +1,5 @@
 {
-  "baseUrl": "/website-2526S1",
+  "baseUrl": "/website",
   "titlePrefix": "CS2103/T",
   "style": {
     "codeTheme": "light",
@@ -60,7 +60,7 @@
   },
   "enableSearch": true,
   "headingIndexingLevel": 5,
-  "plugins": ["customviews", "filterTags", "codeBlockCopyButtons", "codeBlockWrapButtons", "dataTable", "mermaid"],
+  "plugins": ["filterTags", "algolia", "codeBlockCopyButtons", "codeBlockWrapButtons", "dataTable", "mermaid"],
   "pluginsContext": {
     "filterTags" : {
       "tags": ["m--cs2103"]
@@ -69,7 +69,7 @@
        "address": "https://unpkg.com/mermaid@11.7.0/dist/mermaid.esm.min.mjs"
     }
   },
-    "deploy": {
+  "deploy": {
     "message": "Site Update.",
     "repo": "https://github.com/gerteck/website-2526S1.git",
     "branch": "gh-pages"

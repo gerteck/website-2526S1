@@ -1,0 +1,186 @@
+Pagefind logging initialized
+[Status]: [Walking source directory]
+[Info]: Found 878 files matching **/*.{html}
+[Status]: [Parsing files]
+[Info]: Did not find a data-pagefind-body element on the site.
+↳ Indexing all <body> elements on the site.
+[Warning]: 70 pages found without an <html> element. 
+Pages without an outer <html> element will not be processed by default. 
+If adding this element is not possible, use the root selector config to target a different root element.
+[Warning]:   * "/test.html" has no <html> element
+  * "/book/gatheringRequirements/prototyping/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/workBreakdownStructure/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/issueTrackers/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/ganttCharts/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/pertCharts/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/associations/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/objects/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/linearPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/rakes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/swimlanes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/parallelPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/alternatePaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/notes/notes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/aggregation/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/multiplicity/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/navigability/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/labels/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/roles/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/enumerations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associationClasses/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classes/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classInheritance/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/dependencies/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classLevelMembers/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associationsAsAttributes/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/composition/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/abstractClasses/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/interfaces/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/referenceFrames/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/staticMethods/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/optionalPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/minimalNotation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/basic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/objectDeletion/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/alternativePaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/selfInvocation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/loops/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/objectCreation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/parallelPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/bigBangVsIncremental/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/topDownVsBottomUp/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/lateVsEarly/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/multiplicity/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/aggregation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/associationClasses/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/navigability/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/dependencies/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/composition/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/classes/enumerations/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/abstractClasses/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/interfaces/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/requirements/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/requirements/nonFunctionalRequirements/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingStructures/objectDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingStructures/classDiagramsBasic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/activityDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/stateMachineDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/useCaseDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/sequenceDiagramsBasic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/designPatterns/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/principles/solidPrinciples/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/principles/separationOfConcernsPrinciple/unit-inElsewhere-asFlat._include_.html" has no <html> element
+[Status]: [Reading languages]
+[Info]: Discovered 1 language: unknown
+[Info]:   * unknown: 808 pages
+[Status]: [Building search indexes]
+[Info]: Language unknown: 
+  Indexed 808 pages
+  Indexed 13737 words
+  Indexed 0 filters
+  Indexed 0 sorts
+
+[Info]: Total: 
+  Indexed 1 language
+  Indexed 808 pages
+  Indexed 13737 words
+  Indexed 0 filters
+  Indexed 0 sorts
+[Info]: Did not find a data-pagefind-body element on the site.
+↳ Indexing all <body> elements on the site.
+[Warning]: 70 pages found without an <html> element. 
+Pages without an outer <html> element will not be processed by default. 
+If adding this element is not possible, use the root selector config to target a different root element.
+[Warning]:   * "/test.html" has no <html> element
+  * "/book/gatheringRequirements/prototyping/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/workBreakdownStructure/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/issueTrackers/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/ganttCharts/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/projectPlanning/pertCharts/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/associations/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/objectDiagrams/objects/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/linearPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/rakes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/swimlanes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/parallelPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/activityDiagrams/basicNotations/alternatePaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/notes/notes/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/aggregation/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/multiplicity/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/navigability/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/labels/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/roles/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/enumerations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associationClasses/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classes/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classInheritance/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/dependencies/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/classLevelMembers/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/associationsAsAttributes/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/composition/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/abstractClasses/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/classDiagrams/interfaces/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/referenceFrames/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/staticMethods/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/optionalPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/minimalNotation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/basic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/objectDeletion/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/alternativePaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/selfInvocation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/loops/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/objectCreation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/uml/sequenceDiagrams/parallelPaths/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/bigBangVsIncremental/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/topDownVsBottomUp/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/integration/approaches/lateVsEarly/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/multiplicity/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/aggregation/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/associationClasses/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/navigability/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/dependencies/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/composition/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/associations/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/classes/enumerations/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/abstractClasses/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/oop/inheritance/interfaces/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/requirements/introduction/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/requirements/nonFunctionalRequirements/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingStructures/objectDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingStructures/classDiagramsBasic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/activityDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/stateMachineDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/useCaseDiagrams/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/modeling/modelingBehaviors/sequenceDiagramsBasic/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/designPatterns/introduction/what/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/principles/solidPrinciples/unit-inElsewhere-asFlat._include_.html" has no <html> element
+  * "/book/principles/separationOfConcernsPrinciple/unit-inElsewhere-asFlat._include_.html" has no <html> element
+[Status]: [Reading languages]
+[Info]: Discovered 1 language: unknown
+[Info]:   * unknown: 808 pages
+[Status]: [Building search indexes]
+[Info]: Language unknown: 
+  Indexed 808 pages
+  Indexed 13737 words
+  Indexed 0 filters
+  Indexed 0 sorts
+
+[Info]: Total: 
+  Indexed 1 language
+  Indexed 808 pages
+  Indexed 13737 words
+  Indexed 0 filters
+  Indexed 0 sorts

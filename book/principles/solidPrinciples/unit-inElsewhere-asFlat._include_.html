@@ -4,7 +4,7 @@
 <div id="main">
 <div>
 <p>The five OOP principles given below are known as <em>SOLID Principles</em> (an acronym made up of the first letter of each principle):</p>
-<panel type="seamless"><template #header><p><strong>S</strong>ingle Responsibility Principle (SRP)</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><strong>S</strong>ingle Responsibility Principle (SRP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
 <div><h4 id="single-responsibility-principle"><span>Single responsibility principle</span><a class="fa fa-anchor" href="#single-responsibility-principle" onclick="event.stopPropagation()"></a></h4></div>
@@ -25,7 +25,7 @@
 <li><a href="http://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074">Another explanation (more detailed)</a>
 by Patkos Csaba</li>
 <li><a href="https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view">A book chapter on SRP</a> written by the father of the principle itself, Robert C Martin</li></ul></div></div></div></div></div></div></panel>
-<panel type="seamless"><template #header><p><strong>O</strong>pen-Closed Principle (OCP)</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><strong>O</strong>pen-Closed Principle (OCP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
 <div><h4 id="open-closed-principle"><span>Open-closed principle</span><a class="fa fa-anchor" href="#open-closed-principle" onclick="event.stopPropagation()"></a></h4></div>
@@ -37,7 +37,7 @@ by Patkos Csaba</li>
 <p>In object-oriented programming, OCP can be achieved in various ways. This often requires separating the <em>specification (i.e., interface)</em> of a module from its <em>implementation</em>.</p>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In the design given below, the behavior of the <code class="hljs inline no-lang" v-pre>CommandQueue</code> class can be altered by adding more concrete <code class="hljs inline no-lang" v-pre>Command</code> subclasses. For example, by including a <code class="hljs inline no-lang" v-pre>Delete</code> class alongside <code class="hljs inline no-lang" v-pre>List</code>, <code class="hljs inline no-lang" v-pre>Sort</code>, and <code class="hljs inline no-lang" v-pre>Reset</code>, the <code class="hljs inline no-lang" v-pre>CommandQueue</code> can now perform delete commands without modifying its code at all. That is, its behavior was extended without having to modify its code. Hence, it is open to extensions, but closed to modification.</p>
-<pic eager src="/website-2526S1/book/principles/openClosedPrinciple/images/commandQueue.png" height="170"></pic>
+<pic eager src="/website/book/principles/openClosedPrinciple/images/commandQueue.png" height="170"></pic>
 <p></p></box>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> The behavior of a Java generic class can be altered by passing it a different class as a parameter. In the code below, the <code class="hljs inline no-lang" v-pre>ArrayList</code> class behaves as a container of <code class="hljs inline no-lang" v-pre>Students</code> in one instance and as a container of <code class="hljs inline no-lang" v-pre>Admin</code> objects in the other instance, without having to change its code. That is, the behavior of the <code class="hljs inline no-lang" v-pre>ArrayList</code> class is extended without modifying its code.</p>
@@ -88,17 +88,17 @@ by Patkos Csaba</li>
 <div>
 <div><br>
 <h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
-<div><div><panel><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Meaning of OCP</p></template>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Meaning of OCP</p></template>
 <p>Which of these is closest to the meaning of the open-closed principle?</p>
 <ul radio-group="6906e" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> a. We should be able to change a software module’s behavior without modifying its code.</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> b. A software module should remain open to modification as long as possible.</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> c. A software module should be open to modification and closed to extension.</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> d. Open source software rocks. Closed source software sucks.</label></li></ul>
-<panel type="seamless" minimized><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>(a)</p>
 <p>Explanation: Please refer the handout for the definition of OCP.</p></panel></panel></div></div></div></div></div></div></div></panel>
-<panel type="seamless"><template #header><p><strong>L</strong>iskov Substitution Principle (LSP)</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><strong>L</strong>iskov Substitution Principle (LSP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
 <div><h4 id="liskov-substitution-principle"><span>Liskov substitution principle</span><a class="fa fa-anchor" href="#liskov-substitution-principle" onclick="event.stopPropagation()"></a></h4></div>
@@ -107,7 +107,7 @@ by Patkos Csaba</li>
 <box type="definition" seamless>
 <div><p><strong>Liskov substitution principle (LSP)</strong>: Derived classes must be substitutable for their base classes. <sub>-- proposed by <a href="https://en.wikipedia.org/wiki/Barbara_Liskov">Barbara Liskov</a></sub></p></div></box>
 <p>LSP sounds the same as <trigger large trigger="click" for="modal:lsp-substitutability">substitutability</trigger> but it goes beyond substitutability; <strong>LSP implies that a subclass should not be more restrictive than the behavior specified by the superclass.</strong> As you know, Java has language support for substitutability. However, if LSP is not followed, substituting a subclass object for a superclass object can break the functionality of the code.</p>
-<modal large id="modal:lsp-substitutability"><template #header>Textbook <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span></template>
+<modal large id="modal:lsp-substitutability" class="algolia-no-index"><template #header>Textbook <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span></template>
   <div><p><span class="dimmed"><strong><span>Paradigms → OOP → Inheritance →
 </span></strong></span></p>
 <div id="title-and-body">
@@ -116,7 +116,7 @@ by Patkos Csaba</li>
 <div>
 <p><strong>Every instance of a subclass is an instance of the superclass, but not vice versa.</strong> As a result, inheritance allows <em>substitutability</em>: the ability to substitute a child class object where a parent class object is expected.</p>
 <box>
-<pic src="/website-2526S1/43e934733b9a8486c3c0757609c8894d.png"></pic>
+<pic src="/website/43e934733b9a8486c3c0757609c8894d.png"></pic>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> An <code class="hljs inline no-lang" v-pre>AcademicStaff</code> is an instance of a <code class="hljs inline no-lang" v-pre>Staff</code>, but a <code class="hljs inline no-lang" v-pre>Staff</code> is not necessarily an instance of an <code class="hljs inline no-lang" v-pre>AcademicStaff</code>. i.e., wherever an object of the superclass is expected, it can be substituted by an object of any of its subclasses.</p>
 <p>The following code is valid because an <code class="hljs inline no-lang" v-pre>AcademicStaff</code> object is substitutable as a <code class="hljs inline no-lang" v-pre>Staff</code> object.</p>
 <pre><code class="hljs java" v-pre><span>Staff staff = <span class="hljs-keyword">new</span> AcademicStaff(); <span class="hljs-comment">// OK</span>
@@ -210,7 +210,7 @@ by Patkos Csaba</li>
 <div></div></div></div></div></modal>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Suppose the <code class="hljs inline no-lang" v-pre>Payroll</code> class depends on the <code class="hljs inline no-lang" v-pre>adjustMySalary(int percent)</code> method of the <code class="hljs inline no-lang" v-pre>Staff</code> class. Furthermore, the <code class="hljs inline no-lang" v-pre>Staff</code> class states that the <code class="hljs inline no-lang" v-pre>adjustMySalary</code> method will work for all positive percent values. Both the <code class="hljs inline no-lang" v-pre>Admin</code> and <code class="hljs inline no-lang" v-pre>Academic</code> classes override the <code class="hljs inline no-lang" v-pre>adjustMySalary</code> method.</p>
-<pic eager src="/website-2526S1/book/principles/liskovSubstitutionPrinciple/images/payroll.png" height="200"></pic>
+<pic eager src="/website/book/principles/liskovSubstitutionPrinciple/images/payroll.png" height="200"></pic>
 <p></p>
 <p>Now consider the following:</p>
 <ul>
@@ -220,9 +220,9 @@ by Patkos Csaba</li>
 <ul>
 <li>The <code class="hljs inline no-lang" v-pre>Admin</code> class follows LSP because it fulfills <code class="hljs inline no-lang" v-pre>Payroll</code>’s expectation of <code class="hljs inline no-lang" v-pre>Staff</code> objects (i.e., it works for all positive values). Substituting <code class="hljs inline no-lang" v-pre>Admin</code> objects for <code class="hljs inline no-lang" v-pre>Staff</code> objects will not break the <code class="hljs inline no-lang" v-pre>Payroll</code> class functionality.</li>
 <li>The <code class="hljs inline no-lang" v-pre>Academic</code> class violates LSP because it will not work for percent values over <code class="hljs inline no-lang" v-pre>100</code> as expected by the <code class="hljs inline no-lang" v-pre>Payroll</code> class. Substituting <code class="hljs inline no-lang" v-pre>Academic</code> objects for <code class="hljs inline no-lang" v-pre>Staff</code> objects can potentially break the <code class="hljs inline no-lang" v-pre>Payroll</code> class functionality.</li></ul>
-<panel type="seamless"><template #header><p><span class="dimmed">Another example</span></p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><span class="dimmed">Another example</span></p></template>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> The <code class="hljs inline no-lang" v-pre>Rectangle#resize()</code> method can take any integers for <code class="hljs inline no-lang" v-pre>height</code> and <code class="hljs inline no-lang" v-pre>width</code>. This contract is violated by the subclass <code class="hljs inline no-lang" v-pre>Square#resize()</code> because it does not accept a <code class="hljs inline no-lang" v-pre>height</code> that is different from the <code class="hljs inline no-lang" v-pre>width</code>.</p>
-<pic eager src="/website-2526S1/book/principles/liskovSubstitutionPrinciple/images/rectangleSquare.png" height="120"></pic>
+<pic eager src="/website/book/principles/liskovSubstitutionPrinciple/images/rectangleSquare.png" height="120"></pic>
 <p></p>
 <pre><code class="hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Rectangle</span> </span>{
 </span><span>    ...
@@ -332,15 +332,15 @@ by Patkos Csaba</li>
 <div>
 <div><br>
 <h5 id="exercises-2"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-2" onclick="event.stopPropagation()"></a></h5>
-<div><div><panel><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Is this LSP?</p></template>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Is this LSP?</p></template>
 <p>If a subclass imposes more restrictive conditions than its parent class, it violates Liskov Substitution Principle.</p>
 <ul radio-group="55ada" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="55ada" type="radio"> True</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="55ada" type="radio"> False</label></li></ul>
-<panel type="seamless" minimized><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>True.</p>
 <p>Explanation: If the subclass is more restrictive than the parent class, code that worked with the parent class may not work with the child class. Hence, the substitutability does not exist and LSP is violated.</p></panel></panel></div></div></div></div></div></div></div></panel>
-<panel type="seamless"><template #header><p><strong>I</strong>nterface Segregation Principle (ISP)</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><strong>I</strong>nterface Segregation Principle (ISP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
 <div><h4 id="interface-segregation-principle"><span>Interface segregation principle</span><a class="fa fa-anchor" href="#interface-segregation-principle" onclick="event.stopPropagation()"></a></h4></div>
@@ -445,10 +445,10 @@ by Patkos Csaba</li>
 
     </div>
     </div>
-    </button></div></pre><pic eager src="/website-2526S1/book/principles/interfaceSegregationPrinciple/images/payroll.png" height="200"></pic>
+    </button></div></pre><pic eager src="/website/book/principles/interfaceSegregationPrinciple/images/payroll.png" height="200"></pic>
 <p></p></box></div>
 <div></div></div></div></div></panel>
-<panel type="seamless"><template #header><p><strong>D</strong>ependency Inversion Principle (DIP)</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><strong>D</strong>ependency Inversion Principle (DIP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
 <div><h4 id="dependency-inversion-principle"><span>Dependency inversion principle</span><a class="fa fa-anchor" href="#dependency-inversion-principle" onclick="event.stopPropagation()"></a></h4></div>
@@ -461,21 +461,21 @@ by Patkos Csaba</li>
 <li>Abstractions should not depend on details. Details should depend on abstractions.</li></ol></div></box>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Example:</p>
-<pic eager src="/website-2526S1/book/principles/dependencyInversionPrinciple/images/payrollEmployee.png" height="130"></pic>
+<pic eager src="/website/book/principles/dependencyInversionPrinciple/images/payrollEmployee.png" height="130"></pic>
 <p></p>
 <p>In design (a), the higher level class <code class="hljs inline no-lang" v-pre>Payroll</code> depends on the lower level class <code class="hljs inline no-lang" v-pre>Employee</code>, which is a violation of DIP. In design (b), both <code class="hljs inline no-lang" v-pre>Payroll</code> and <code class="hljs inline no-lang" v-pre>Employee</code> depend on the <code class="hljs inline no-lang" v-pre>Payee</code> interface (note that inheritance is a dependency).</p>
 <p>Design (b) is more flexible (and less coupled) because now the <code class="hljs inline no-lang" v-pre>Payroll</code> class need not change when the <code class="hljs inline no-lang" v-pre>Employee</code> class changes.</p></box></div>
 <div>
 <div><br>
 <h5 id="exercises-3"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-3" onclick="event.stopPropagation()"></a></h5>
-<div><div><panel><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which of these statements is true about the Dependency Inversion Principle?</p></template>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which of these statements is true about the Dependency Inversion Principle?</p></template>
 <p>Which of these statements is true about the Dependency Inversion Principle?</p>
 <ul class="contains-task-list">
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. It can complicate the design/implementation by introducing extra abstractions, but it has some benefits.</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. It is often used during testing to replace dependencies with mocks.</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. It reduces dependencies in a design.</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. It advocates making higher level classes depend on lower level classes.</li></ul>
-<panel type="seamless" minimized><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>a</p>
 <p>Explanation: Replacing dependencies with mocks is Dependency Injection, not DIP. DIP does not reduce dependencies, rather, it changes the direction of dependencies. Yes, it can introduce extra abstractions but often the benefit can outweigh the extra complications.</p></panel></panel></div></div></div></div></div></div></div></panel></div>
 <div></div></div></div>

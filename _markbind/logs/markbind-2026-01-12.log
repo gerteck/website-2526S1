@@ -1,0 +1,456 @@
+2026-01-12T08:12:11.396Z - info: Website generation started at 4:12:10 PM
+2026-01-12T08:12:11.669Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T08:12:11.669Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T08:12:11.684Z - info: Building assets...
+2026-01-12T08:12:13.283Z - info: Assets built
+2026-01-12T08:12:13.283Z - info: Generating pages...
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.036Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.093Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:16.093Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:18.287Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:12:24.583Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:00.573Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:00.574Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:06.993Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:15.068Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:15.068Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T08:13:21.806Z - info: Pages built
+2026-01-12T08:13:21.866Z - info: Site data built
+2026-01-12T08:13:21.866Z - info: Creating Pagefind Search Index...
+2026-01-12T08:13:27.448Z - info: Pagefind indexed 1756 pages in 5.582s
+2026-01-12T08:13:28.679Z - info: Website generation complete! Total build time: 77.733s
+2026-01-12T08:13:29.699Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:52126
+2026-01-12T08:13:29.700Z - info: Press CTRL+C to stop ...
+2026-01-12T08:14:22.909Z - info: [4:14:22 PM] Reload for file change: /Users/gerteck/dev/website-2526S1/admin/usingThisWebsite.md
+2026-01-12T08:14:23.927Z - info: Rebuilding 2 pages
+2026-01-12T08:14:24.723Z - info: Site data built
+2026-01-12T08:14:24.723Z - info: Pages rebuilt
+2026-01-12T08:14:24.723Z - info: Website regeneration complete! Total build time: 0.806s
+2026-01-12T09:37:23.138Z - info: Website generation started at 5:37:22 PM
+2026-01-12T09:37:23.405Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T09:37:23.405Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T09:37:23.419Z - info: Building assets...
+2026-01-12T09:37:24.945Z - info: Assets built
+2026-01-12T09:37:24.946Z - info: Generating pages...
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:27.758Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:30.027Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:37:34.742Z - info: Website generation (lazy) started at 5:37:34 PM
+2026-01-12T09:37:34.889Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T09:37:34.890Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T09:37:34.904Z - info: Building assets...
+2026-01-12T09:37:35.868Z - info: Assets built
+2026-01-12T09:37:35.868Z - info: Generating landing page...
+2026-01-12T09:37:36.047Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-12T09:37:36.094Z - info: Site data built
+2026-01-12T09:37:36.094Z - info: Creating Pagefind Search Index...
+2026-01-12T09:37:38.632Z - info: Pagefind indexed 881 pages in 2.538s
+2026-01-12T09:37:38.632Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:37:39.211Z - info: Website generation (lazy) complete! Total build time: 4.813s
+2026-01-12T09:37:40.229Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:56445
+2026-01-12T09:37:40.229Z - info: Press CTRL+C to stop ...
+2026-01-12T09:39:22.061Z - info: Website generation started at 5:39:22 PM
+2026-01-12T09:39:22.201Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T09:39:22.201Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T09:39:22.214Z - info: Building assets...
+2026-01-12T09:39:23.810Z - info: Assets built
+2026-01-12T09:39:23.810Z - info: Generating pages...
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.607Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.654Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:26.654Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:28.873Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:39:35.349Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:12.473Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:12.474Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:17.251Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:27.064Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:27.064Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:40:34.181Z - info: Pages built
+2026-01-12T09:40:34.243Z - info: Site data built
+2026-01-12T09:40:34.243Z - info: Creating Pagefind Search Index...
+2026-01-12T09:40:39.448Z - info: Pagefind indexed 1756 pages in 5.205s
+2026-01-12T09:40:39.448Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:40:40.658Z - info: Website generation complete! Total build time: 78.617s
+2026-01-12T09:40:40.658Z - info: Build success!
+2026-01-12T09:40:46.469Z - info: Website generation (lazy) started at 5:40:45 PM
+2026-01-12T09:40:46.648Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T09:40:46.648Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T09:40:46.662Z - info: Building assets...
+2026-01-12T09:40:48.163Z - info: Assets built
+2026-01-12T09:40:48.163Z - info: Generating landing page...
+2026-01-12T09:40:48.361Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-12T09:40:48.400Z - info: Site data built
+2026-01-12T09:40:48.400Z - info: Creating Pagefind Search Index...
+2026-01-12T09:40:50.883Z - info: Pagefind indexed 881 pages in 2.483s
+2026-01-12T09:40:50.883Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:40:51.460Z - info: Website generation (lazy) complete! Total build time: 5.556s
+2026-01-12T09:40:52.476Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:56531
+2026-01-12T09:40:52.477Z - info: Press CTRL+C to stop ...
+2026-01-12T09:40:56.039Z - info: Building /Users/gerteck/dev/website-2526S1/admin/usingThisWebsite as some of its dependencies were changed since the last visit
+2026-01-12T09:40:56.182Z - info: Site data built
+2026-01-12T09:40:56.182Z - info: Lazy website regeneration complete! Total build time: 0.144s
+2026-01-12T09:41:56.210Z - info: Website generation (lazy) started at 5:41:56 PM
+2026-01-12T09:41:56.353Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2026-01-12T09:41:56.353Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2026-01-12T09:41:56.366Z - info: Building assets...
+2026-01-12T09:41:57.530Z - info: Assets built
+2026-01-12T09:41:57.530Z - info: Generating landing page...
+2026-01-12T09:41:57.724Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-12T09:41:57.762Z - info: Site data built
+2026-01-12T09:41:57.762Z - info: Creating Pagefind Search Index...
+2026-01-12T09:42:00.253Z - info: Pagefind indexed 881 pages in 2.491s
+2026-01-12T09:42:00.254Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:42:00.838Z - info: Website generation (lazy) complete! Total build time: 4.737s
+2026-01-12T09:42:01.855Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:56565
+2026-01-12T09:42:01.855Z - info: Press CTRL+C to stop ...
+2026-01-12T09:44:08.660Z - info: Website generation started at 5:44:08 PM
+2026-01-12T09:44:08.771Z - info: Building assets...
+2026-01-12T09:44:08.981Z - info: Assets built
+2026-01-12T09:44:08.981Z - info: Generating pages...
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.848Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.914Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:11.914Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:14.156Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:20.920Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:56.811Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:44:56.811Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:45:03.111Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:45:12.540Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:45:12.540Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2026-01-12T09:45:19.636Z - info: Pages built
+2026-01-12T09:45:19.696Z - info: Site data built
+2026-01-12T09:45:19.696Z - info: Creating Pagefind Search Index...
+2026-01-12T09:45:22.261Z - info: Pagefind indexed 878 pages in 2.565s
+2026-01-12T09:45:22.261Z - info: Logging outputPath /Users/gerteck/dev/website-2526S1/_site
+2026-01-12T09:45:22.844Z - info: Website generation complete! Total build time: 74.636s
+2026-01-12T09:45:23.857Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:56680
+2026-01-12T09:45:23.857Z - info: Press CTRL+C to stop ...
+2026-01-12T09:48:00.461Z - info: Website generation started at 5:48:00 PM
+2026-01-12T09:48:00.572Z - info: Building assets...

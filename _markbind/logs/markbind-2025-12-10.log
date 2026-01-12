@@ -1,0 +1,72 @@
+2025-12-10T06:57:23.482Z - info: Website generation started at 2:57:22 PM
+2025-12-10T06:57:23.894Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2025-12-10T06:57:23.894Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2025-12-10T06:57:23.922Z - info: Building assets...
+2025-12-10T06:57:28.374Z - info: Website generation (lazy) started at 2:57:28 PM
+2025-12-10T06:57:28.649Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/book/_markbind/variables.md'
+2025-12-10T06:57:28.649Z - warn: ENOENT: no such file or directory, open '/Users/gerteck/dev/website-2526S1/node_modules/.cache/gh-pages/https!github.com!gerteck!website-2526S1.git/_markbind/variables.md'
+2025-12-10T06:57:28.678Z - info: Building assets...
+2025-12-10T06:57:30.164Z - info: Assets built
+2025-12-10T06:57:30.165Z - info: Generating landing page...
+2025-12-10T06:57:30.571Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-12-10T06:57:30.649Z - info: Site data built
+2025-12-10T06:57:30.650Z - info: Website generation (lazy) complete! Total build time: 2.63s
+2025-12-10T06:57:30.664Z - info: Serving "/Users/gerteck/dev/website-2526S1/_site" at http://127.0.0.1:8080
+2025-12-10T06:57:30.664Z - info: Press CTRL+C to stop ...
+2025-12-10T06:59:27.819Z - info: Building /Users/gerteck/dev/website-2526S1/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-12-10T06:59:28.020Z - info: Site data built
+2025-12-10T06:59:28.020Z - info: Lazy website regeneration complete! Total build time: 0.201s
+2025-12-10T06:59:32.369Z - info: Building /Users/gerteck/dev/website-2526S1/se-book-adapted/print as some of its dependencies were changed since the last visit
+2025-12-10T06:59:33.683Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:33.683Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:33.683Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.221Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.222Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.268Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:34.268Z - debug: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2025-12-10T06:59:38.003Z - info: Site data built
+2025-12-10T06:59:38.004Z - info: Lazy website regeneration complete! Total build time: 5.634s
+2025-12-10T06:59:39.010Z - info: Building /Users/gerteck/dev/website-2526S1/se-book-adapted/chapters/oop as some of its dependencies were changed since the last visit
+2025-12-10T06:59:40.127Z - info: Site data built
+2025-12-10T06:59:40.129Z - info: Lazy website regeneration complete! Total build time: 1.118s
